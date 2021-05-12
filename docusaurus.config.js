@@ -2,21 +2,21 @@
 module.exports = {
   title: 'TL Yeung',
   tagline: 'Ciao!',
-  url: 'https://tlyeung.com',
+  url: 'https://tlyeung.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.svg',
   organizationName: 'tlyeung', // Usually your GitHub org/user name.
-  projectName: 'tlyeung\'s site', // Usually your repo name.
+  projectName: 'tlyeung.github.io', // Usually your repo name.
   themeConfig: {
     colorMode: {
       // "light" | "dark"
-      defaultMode: 'light',
+      defaultMode: 'dark',
 
       // Hides the switch in the navbar
       // Useful if you want to support a single color mode
-      disableSwitch: true,
+      disableSwitch: false,
     },
     navbar: {
       title: 'TL Yeung\'s Site',
