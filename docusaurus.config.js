@@ -1,12 +1,12 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'TL Yeung',
-  tagline: 'Ciao!',
+  tagline: '',
   url: 'https://tlyeung.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logo.svg',
+  favicon: 'img/tlyeung.png',
   organizationName: 'tlyeung', // Usually your GitHub org/user name.
   projectName: 'tlyeung.github.io', // Usually your repo name.
   themeConfig: {
@@ -22,7 +22,7 @@ module.exports = {
       title: 'TL Yeung\'s Site',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/tlyeung.png',
       },
       items: [
         {

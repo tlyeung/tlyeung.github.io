@@ -11,10 +11,10 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Hello',
-    Svg: require('../../static/img/logo.svg').default,
+    Svg: require('../../static/img/tlyeung.svg').default,
     description: (
       <>
-        This is TL Yeung's site.
+        Welcome to my site.
       </>
     ),
   }
