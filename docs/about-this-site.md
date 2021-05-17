@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # About this site
 
-I would like to create my own site in the Internet that is entirely me. No algorithm. No ads. A site that does not trace your privacy.
+I would like to create my own site in the Internet that is entirely me. No algorithm. No ads. A site that does not trace your privacy, does not collect your data.
 
 There are many problems for social network nowadays. 
 
@@ -14,5 +14,5 @@ Moreover, those media are controlled by "influencers". They create contents acco
 
 That's why I create my personal site.
 
-I had tried to use "Jekyll", the default site builder for GitHub page, to build this site before, but I found that it was not good enough. I have done some research and eventually chosen site generator "[Docusaurus](https://docusaurus.io/)". I think it is the best site generator at present.
+I had tried to use "Jekyll", the default site builder for GitHub page, to build this site before, but I found that it was not good enough. I have done some research and eventually chosen site generator "[Docusaurus](https://docusaurus.io/)". I think it is one of the best site generators at present.
 

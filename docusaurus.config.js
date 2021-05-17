@@ -71,6 +71,17 @@ module.exports = {
               href: 'https://mewe.com/i/tlyeung',
             },
           ],
+        }, {
+          title: 'Blog',
+          items: [
+            {
+              label: 'Atom',
+              href: 'blog/atom.xml',
+            },{
+              label: 'RSS',
+              href: 'blog/rss.xml',
+            }
+          ],
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} TL Yeung`,
@@ -84,6 +95,9 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
+          feedOptions: {
+            type: 'all',
+          },
           showReadingTime: true,
         },
         theme: {

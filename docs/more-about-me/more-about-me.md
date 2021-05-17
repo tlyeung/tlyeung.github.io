@@ -10,3 +10,6 @@ I listen to music.
 
 I read.
 
+I watch movies, TV, and youtube videos.
+
+I travel.
