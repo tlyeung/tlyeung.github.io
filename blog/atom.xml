@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tlyeung.github.io/blog</id>
     <title>TL Yeung Blog</title>
-    <updated>2021-05-18T00:00:00.000Z</updated>
+    <updated>2021-05-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tlyeung.github.io/blog"/>
     <subtitle>TL Yeung Blog</subtitle>
@@ -10,8 +10,8 @@
     <entry>
         <title type="html"><![CDATA[Things I watched in May 2021]]></title>
         <id>Things I watched in May 2021</id>
-        <link href="https://tlyeung.github.io/blog/2021/05/18/films-tv"/>
-        <updated>2021-05-18T00:00:00.000Z</updated>
+        <link href="https://tlyeung.github.io/blog/2021/05/26/films-tv"/>
+        <updated>2021-05-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I watched a movie "Promising Young Woman" on 4th May. It was the 2021 Oscar winner of the best original screenplay. But I don't think it deserved such honour. It seems average to me. Maybe there were fewer movies last year due to COVID.  Some screens reminded me of another movie this year, "I care a lot", and I found them very unrealistic that a woman could scare off angry men that easily. According to my experience, embarrassed men tend to use violence even more. My girlfriend did not like the revenge idea, I however disagreed with her. Revenge is a must when it is needed. Revenge is one of the common themes in many good movies, even among those all time greats such as the Godfather. I give this film a 6/10.]]></summary>
     </entry>
 </feed>
