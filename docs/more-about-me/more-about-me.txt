@@ -1,0 +1,11 @@
+---
+sidebar_position: 1
+---
+
+# More about me
+
+I have a wide range of hobbies.
+
+I am a big sports fan and I play and watch a lot of them. I listen to different kinds of music. I often read. [I like to watch movies, TV (mainly documentaries), and youtube videos](./films-tv-videos). I travel.
+
+I like science and engineering, but also literature, history, and philosophy.

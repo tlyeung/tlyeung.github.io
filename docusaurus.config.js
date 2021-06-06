@@ -1,4 +1,5 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
+
 module.exports = {
   title: 'TL Yeung',
   tagline: '',
@@ -65,21 +66,17 @@ module.exports = {
             {
               label: 'LinkedIn',
               href: 'https://linkedin.com/in/tlyeung',
-            },
-            {
-              label: 'MeWe',
-              href: 'https://mewe.com/i/tlyeung',
-            },
+            }
           ],
         }, {
           title: 'Blog',
           items: [
             {
               label: 'Atom',
-              href: 'blog/atom.xml',
+              href: 'https://tlyeung.com/blog/atom.xml',
             },{
               label: 'RSS',
-              href: 'blog/rss.xml',
+              href: 'https://tlyeung.com/blog/rss.xml',
             }
           ],
         },
