@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tlyeung.github.io/blog</id>
     <title>TL Yeung Blog</title>
-    <updated>2021-05-26T00:00:00.000Z</updated>
+    <updated>2021-06-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tlyeung.github.io/blog"/>
     <subtitle>TL Yeung Blog</subtitle>
     <icon>https://tlyeung.github.io/img/tlyeung.png</icon>
     <entry>
+        <title type="html"><![CDATA[Things I watched in June 2021]]></title>
+        <id>Things I watched in June 2021</id>
+        <link href="https://tlyeung.github.io/blog/2021/06/06/Things-I-watched-in-June-2021"/>
+        <updated>2021-06-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I finished a four-episode documentary series, called "The pharmacist", on 1st June.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My First Azure Certification]]></title>
+        <id>My First Azure Certification</id>
+        <link href="https://tlyeung.github.io/blog/2021/05/28/Azure-certification"/>
+        <updated>2021-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I just certified in "Azure Developer Associate (AZ-204)" yesterday, despite I only have limited experience in Azure before. I studied a online course earlier this month. But I have to admit I am not very good at it.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Things I watched in May 2021]]></title>
         <id>Things I watched in May 2021</id>
-        <link href="https://tlyeung.github.io/blog/2021/05/26/films-tv"/>
+        <link href="https://tlyeung.github.io/blog/2021/05/26/Things-I-watched-in-May-2021"/>
         <updated>2021-05-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I watched a movie "Promising Young Woman" on 4th May. It was the 2021 Oscar winner of the best original screenplay. But I don't think it deserved such honour. It seems average to me. Maybe there were fewer movies last year due to COVID.  Some screens reminded me of another movie this year, "I care a lot", and I found them very unrealistic that a woman could scare off angry men that easily. According to my experience, embarrassed men tend to use violence even more. My girlfriend did not like the revenge idea, I however disagreed with her. Revenge is a must when it is needed. Revenge is one of the common themes in many good movies, even among those all time greats such as the Godfather. I give this film a 6/10.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Botticelli Exhibition Review]]></title>
+        <id>Botticelli Exhibition Review</id>
+        <link href="https://tlyeung.github.io/blog/2021/03/09/Botticelli-and-us"/>
+        <updated>2021-03-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An exhibition of Florence's paintings in late 15th century, Early Renaissance, was held in Hong Kong Art Museum. 40 pieces from the Uffizi Galleries were displayed, including 10 from Sandro Botticelli, the most outstanding artist of that time. In fact he was so significant that the name of the exhibition was "The Hong Kong Jockey Club Series: Botticelli and His Times——Masterworks". One of his most famous works, "Adoration of the Magi", was shown in Hong Kong.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gift exchange problem and my solution]]></title>
+        <id>Gift exchange problem and my solution</id>
+        <link href="https://tlyeung.github.io/blog/2021/01/01/Gift-exchange-problem"/>
+        <updated>2021-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It is common to exchange gifts in a Christmas party. Normally people would draw lots. But have anyone thought of a better method?]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shall we have universal testing?]]></title>
+        <id>Shall we have universal testing?</id>
+        <link href="https://tlyeung.github.io/blog/2020/08/03/Shall-we-have-universal-testing"/>
+        <updated>2020-08-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Universal Testing has been a topic in Hong Kong for a few days. Doctors and medical professors, including the prominent microbiologist Yuen Kwok Yung, doubted. Dr Yuen said it can only be possible if we can test all 8 million population in Hong Kong in 4 or 5 days. My question is, even if we can handle 2 million testings a day, is it a good approach?]]></summary>
     </entry>
 </feed>

@@ -1,0 +1,1 @@
+(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[787],{7841:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"maths-and-science","name":"maths and science","count":2,"permalink":"/blog/tags/maths-and-science"}')}}]);
