@@ -4,15 +4,22 @@
         <title>TL Yeung Blog</title>
         <link>https://tlyeung.github.io/blog</link>
         <description>TL Yeung Blog</description>
-        <lastBuildDate>Sun, 06 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Things I watched in June 2021]]></title>
-            <link>https://tlyeung.github.io/blog/2021/06/06/Things-I-watched-in-June-2021</link>
-            <guid>Things I watched in June 2021</guid>
-            <pubDate>Sun, 06 Jun 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[I finished a four-episode documentary series, called "The pharmacist", on 1st June. It was an exception series. Dan Schneider was like a boss, what a character. He was meticulous, intelligent, relentless and you can tell he had a lot of faith. He never gave up, never stop. He was a true hero. What is the right thing to do? I often ask myself. Now I can tell, we need to be a man like Dan Schneider. Highly recommended.]]></description>
+            <title><![CDATA[Documentaries June 2021]]></title>
+            <link>https://tlyeung.github.io/blog/2021/06/14/Documentaries-June-2021</link>
+            <guid>Documentaries June 2021</guid>
+            <pubDate>Mon, 14 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[I finished a four-episode Netflix documentary series, called "The pharmacist", on 1st June. It was an exception series. Dan Schneider was like a boss, what a character. He was meticulous, intelligent, relentless and you can tell he had a lot of faith. He never gave up, never stop. He was a true hero. What is the right thing to do? I often ask myself. Now I can tell, we need to be a man like Dan Schneider. Highly recommended.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Movies June 2021]]></title>
+            <link>https://tlyeung.github.io/blog/2021/06/05/Movies-June-2021</link>
+            <guid>Movies June 2021</guid>
+            <pubDate>Sat, 05 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[I watched a movie "Persian lessons" on 5th June. It is a story about a jew pretend to be a Persian, to try to survive in a concentration camp during WWII. The plot was interesting but there were also some flaws. But, all in all, it is still a good movie to watch. The two main characters were outstanding. I give this movie a 7.5/10.]]></description>
         </item>
         <item>
             <title><![CDATA[My First Azure Certification]]></title>
@@ -22,11 +29,18 @@
             <description><![CDATA[I just certified in "Azure Developer Associate (AZ-204)" yesterday, despite I only have limited experience in Azure before. I studied a online course earlier this month. But I have to admit I am not very good at it.]]></description>
         </item>
         <item>
-            <title><![CDATA[Things I watched in May 2021]]></title>
-            <link>https://tlyeung.github.io/blog/2021/05/26/Things-I-watched-in-May-2021</link>
-            <guid>Things I watched in May 2021</guid>
-            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[Movies May 2021]]></title>
+            <link>https://tlyeung.github.io/blog/2021/05/28/Movies-May-2021</link>
+            <guid>Movies May 2021</guid>
+            <pubDate>Fri, 28 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[I watched a movie "Promising Young Woman" on 4th May. It was the 2021 Oscar winner of the best original screenplay. But I don't think it deserved such honour. It seems average to me. Maybe there were fewer movies last year due to COVID.  Some screens reminded me of another movie this year, "I care a lot", and I found them very unrealistic that a woman could scare off angry men that easily. According to my experience, embarrassed men tend to use violence even more. My girlfriend did not like the revenge idea, I however disagreed with her. Revenge is a must when it is needed. Revenge is one of the common themes in many good movies, even among those all time greats such as the Godfather. I give this film a 6/10.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Documentaries May 2021]]></title>
+            <link>https://tlyeung.github.io/blog/2021/05/26/Documentaries-May-2021</link>
+            <guid>Documentaries May 2021</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[I watched a French documentary, called "The Immortals", on RTHK TV on 13th May. It was about some animals that have powerful recover ability, or simply do not age, or can survive in the most extreme environment. Do you know lobster, a common seafood, is one of the animals that never age? Human is probably the biggest threat to those old giant lobsters, and so to many other animals as well.]]></description>
         </item>
         <item>
             <title><![CDATA[Botticelli Exhibition Review]]></title>
