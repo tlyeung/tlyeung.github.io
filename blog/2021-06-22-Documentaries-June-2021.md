@@ -1,0 +1,13 @@
+---
+title: Documentaries June 2021
+tags: [documentaries]
+---
+
+I finished a four-episode Netflix documentary series, called "[The pharmacist](https://www.imdb.com/title/tt11600174/)", on 1st June. It was an exception series. Dan Schneider was like a boss, what a character. He was meticulous, intelligent, relentless and you can tell he had a lot of faith. He never gave up, never stop. He was a true hero. What is the right thing to do? I often ask myself. Now I can tell, we need to be a man like Dan Schneider. Highly recommended.
+
+I watched a documentary "[Dormir à tout prix](https://www.imdb.com/title/tt13182176/)" on RTHK TV on 10th June. It was a very informative documentary that was about sleep. People nowadays do not sleep as good as people in the past, why? One of the problem is that LED has become very common in lighting, screens, monitors while it has similar wavelengths as sunlight. Exercise and eating habits are also essential to our sleep quality. Even the sleep quality of dogs have been affected by our change of life style in recent decades. Sleeping occupies a significant amount of our life, but it remains one of the most mysterious thing about human. I have another question about sleep, is there any other members in animal world sleep face up, like human?
+
+I watched a documentary "[Black Holes | The Edge of All We Know](https://www.netflix.com/hk-en/title/81343342)" on Netflix on 14th June. It was however nothing much about the science of black holes. It was more about how scientists work together to try to complete a difficult task. That was capture the black hole. Despite its lack of science knowledge in the documentary, it showed how scientists work together. When there are people, there are politics. The project in the documentary involves hundreds of scientists from so many countries, and there was so much funding behind them. We can see how those intelligent people cautiously trust each other and work with a democratic and scientific mindset. That is how our world should be like.
+
+I watched a fabulous documentary called "[I am not alone](https://en.wikipedia.org/wiki/I_Am_Not_Alone)" on 22th June. It was about the great democratic movement in Armenia in 2018. What a fairy tale, I could feel what Armenian had felt then, as we have had similar democratic movement one year after theirs in Hong Kong. I felt a sense of déjà vu when I watched this documentary. I was more than happy to know that they have earned democracy and by civil disobedience movement. The former prime minister, no matter what he had done before, was right to step down in the right time. I wish there will be no more totalitarian regimes in the world.
+

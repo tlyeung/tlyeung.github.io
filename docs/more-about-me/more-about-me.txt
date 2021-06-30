@@ -1,11 +1,15 @@
----
-sidebar_position: 1
----
+I play and watch different sports. 
 
-# More about me
+I listen to different kinds of music. 
 
-I have a wide range of hobbies.
+I often read. 
 
-I am a big sports fan and I play and watch a lot of them. I listen to different kinds of music. I often read. [I like to watch movies, TV (mainly documentaries), and youtube videos](./films-tv-videos). I travel.
+[I like to watch movies, TV (mainly documentaries), and youtube videos](./films-tv-videos). 
+
+I travel.
 
 I like science and engineering, but also literature, history, and philosophy.
+
+[I like watching movies](../../blog/tags/movies).
+
+I am not a big TV fan but [I like to watch documentaries](../../blog/tags/documentaries).
