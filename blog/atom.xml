@@ -2,24 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tlyeung.github.io/blog</id>
     <title>TL Yeung Blog</title>
-    <updated>2021-06-14T00:00:00.000Z</updated>
+    <updated>2021-06-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tlyeung.github.io/blog"/>
     <subtitle>TL Yeung Blog</subtitle>
     <icon>https://tlyeung.github.io/img/tlyeung.png</icon>
     <entry>
-        <title type="html"><![CDATA[Documentaries June 2021]]></title>
-        <id>Documentaries June 2021</id>
-        <link href="https://tlyeung.github.io/blog/2021/06/14/Documentaries-June-2021"/>
-        <updated>2021-06-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I finished a four-episode Netflix documentary series, called "The pharmacist", on 1st June. It was an exception series. Dan Schneider was like a boss, what a character. He was meticulous, intelligent, relentless and you can tell he had a lot of faith. He never gave up, never stop. He was a true hero. What is the right thing to do? I often ask myself. Now I can tell, we need to be a man like Dan Schneider. Highly recommended.]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Movies June 2021]]></title>
         <id>Movies June 2021</id>
-        <link href="https://tlyeung.github.io/blog/2021/06/05/Movies-June-2021"/>
-        <updated>2021-06-05T00:00:00.000Z</updated>
+        <link href="https://tlyeung.github.io/blog/2021/06/29/Movies-June-2021"/>
+        <updated>2021-06-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I watched a movie "Persian lessons" on 5th June. It is a story about a jew pretend to be a Persian, to try to survive in a concentration camp during WWII. The plot was interesting but there were also some flaws. But, all in all, it is still a good movie to watch. The two main characters were outstanding. I give this movie a 7.5/10.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Documentaries June 2021]]></title>
+        <id>Documentaries June 2021</id>
+        <link href="https://tlyeung.github.io/blog/2021/06/22/Documentaries-June-2021"/>
+        <updated>2021-06-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I finished a four-episode Netflix documentary series, called "The pharmacist", on 1st June. It was an exception series. Dan Schneider was like a boss, what a character. He was meticulous, intelligent, relentless and you can tell he had a lot of faith. He never gave up, never stop. He was a true hero. What is the right thing to do? I often ask myself. Now I can tell, we need to be a man like Dan Schneider. Highly recommended.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[My First Azure Certification]]></title>
