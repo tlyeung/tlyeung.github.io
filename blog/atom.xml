@@ -2,24 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tlyeung.github.io/blog</id>
     <title>TL Yeung Blog</title>
-    <updated>2021-06-29T00:00:00.000Z</updated>
+    <updated>2021-07-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tlyeung.github.io/blog"/>
     <subtitle>TL Yeung Blog</subtitle>
     <icon>https://tlyeung.github.io/img/tlyeung.png</icon>
     <entry>
+        <title type="html"><![CDATA[Concerts 2021]]></title>
+        <id>Concerts 2021</id>
+        <link href="https://tlyeung.github.io/blog/2021/07/05/Concerts"/>
+        <updated>2021-07-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It had been a while since the last time we can attend to concerts. And you never know when it will be the last time you do so.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Movies July 2021]]></title>
+        <id>Movies July 2021</id>
+        <link href="https://tlyeung.github.io/blog/2021/07/05/Movies-July-2021"/>
+        <updated>2021-07-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Luca)]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Movies June 2021]]></title>
         <id>Movies June 2021</id>
         <link href="https://tlyeung.github.io/blog/2021/06/29/Movies-June-2021"/>
         <updated>2021-06-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I watched a movie "Persian lessons" on 5th June. It is a story about a jew pretend to be a Persian, to try to survive in a concentration camp during WWII. The plot was interesting but there were also some flaws. But, all in all, it is still a good movie to watch. The two main characters were outstanding. I give this movie a 7.5/10.]]></summary>
+        <summary type="html"><![CDATA[Persian lessons]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Documentaries June 2021]]></title>
         <id>Documentaries June 2021</id>
         <link href="https://tlyeung.github.io/blog/2021/06/22/Documentaries-June-2021"/>
         <updated>2021-06-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I finished a four-episode Netflix documentary series, called "The pharmacist", on 1st June. It was an exception series. Dan Schneider was like a boss, what a character. He was meticulous, intelligent, relentless and you can tell he had a lot of faith. He never gave up, never stop. He was a true hero. What is the right thing to do? I often ask myself. Now I can tell, we need to be a man like Dan Schneider. Highly recommended.]]></summary>
+        <summary type="html"><![CDATA[The pharmacist]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[My First Azure Certification]]></title>
@@ -33,14 +47,14 @@
         <id>Movies May 2021</id>
         <link href="https://tlyeung.github.io/blog/2021/05/28/Movies-May-2021"/>
         <updated>2021-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I watched a movie "Promising Young Woman" on 4th May. It was the 2021 Oscar winner of the best original screenplay. But I don't think it deserved such honour. It seems average to me. Maybe there were fewer movies last year due to COVID.  Some screens reminded me of another movie this year, "I care a lot", and I found them very unrealistic that a woman could scare off angry men that easily. According to my experience, embarrassed men tend to use violence even more. My girlfriend did not like the revenge idea, I however disagreed with her. Revenge is a must when it is needed. Revenge is one of the common themes in many good movies, even among those all time greats such as the Godfather. I give this film a 6/10.]]></summary>
+        <summary type="html"><![CDATA[Promising Young Woman]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Documentaries May 2021]]></title>
         <id>Documentaries May 2021</id>
         <link href="https://tlyeung.github.io/blog/2021/05/26/Documentaries-May-2021"/>
         <updated>2021-05-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I watched a French documentary, called "The Immortals", on RTHK TV on 13th May. It was about some animals that have powerful recover ability, or simply do not age, or can survive in the most extreme environment. Do you know lobster, a common seafood, is one of the animals that never age? Human is probably the biggest threat to those old giant lobsters, and so to many other animals as well.]]></summary>
+        <summary type="html"><![CDATA[The Immortals]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Botticelli Exhibition Review]]></title>
