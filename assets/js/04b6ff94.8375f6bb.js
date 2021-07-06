@@ -1,0 +1,1 @@
+(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[682],{2746:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"art-and-music","name":"art and music","count":2,"permalink":"/blog/tags/art-and-music"}')}}]);
