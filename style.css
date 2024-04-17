@@ -1,5 +1,5 @@
 body {
-	font-family: 'Noto Serif', 'Noto Color Emoji', sans-serif ;
+	font-family: 'Noto Serif', 'Noto Color Emoji', 'Noto Serif HK', serif;
 	background: #123 ;
 	color: #bca ;
 }
@@ -7,7 +7,7 @@ body {
 main {
 	max-width: 1200px ;
 	margin: auto ;
-	padding: 1rem;
+	padding:1rem;
 }
 
 a {
